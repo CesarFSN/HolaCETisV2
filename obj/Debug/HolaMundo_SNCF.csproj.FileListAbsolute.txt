@@ -1,0 +1,24 @@
+D:\HolaMundo_SNCF\HolaMundo_SNCF\bin\Debug\HolaMundo_SNCF.exe.config
+D:\HolaMundo_SNCF\HolaMundo_SNCF\bin\Debug\HolaMundo_SNCF.exe
+D:\HolaMundo_SNCF\HolaMundo_SNCF\bin\Debug\HolaMundo_SNCF.pdb
+D:\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.csprojResolveAssemblyReference.cache
+D:\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.MainForm.resources
+D:\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.csproj.GenerateResource.Cache
+D:\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.exe
+D:\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.pdb
+D:\1er Parcial\HolaMundo_SNCF\HolaMundo_SNCF\bin\Debug\HolaMundo_SNCF.exe.config
+D:\1er Parcial\HolaMundo_SNCF\HolaMundo_SNCF\bin\Debug\HolaMundo_SNCF.exe
+D:\1er Parcial\HolaMundo_SNCF\HolaMundo_SNCF\bin\Debug\HolaMundo_SNCF.pdb
+D:\1er Parcial\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.csprojResolveAssemblyReference.cache
+D:\1er Parcial\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.MainForm.resources
+D:\1er Parcial\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.csproj.GenerateResource.Cache
+D:\1er Parcial\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.exe
+D:\1er Parcial\HolaMundo_SNCF\HolaMundo_SNCF\obj\Debug\HolaMundo_SNCF.pdb
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\bin\Debug\HolaMundo_SNCF.exe.config
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\bin\Debug\HolaMundo_SNCF.exe
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\bin\Debug\HolaMundo_SNCF.pdb
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaMundo_SNCF.csprojResolveAssemblyReference.cache
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaMundo_SNCF.MainForm.resources
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaMundo_SNCF.csproj.GenerateResource.Cache
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaMundo_SNCF.exe
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaMundo_SNCF.pdb
