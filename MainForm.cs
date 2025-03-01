@@ -3,7 +3,7 @@
  * Usuario: Cesar Fernando
  * Fecha: 26/02/2025
  * Hora: 01:19 p. m.
- * Programa: HolaMundo
+ * Programa: HolaCETis
  * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
  */
 using System;

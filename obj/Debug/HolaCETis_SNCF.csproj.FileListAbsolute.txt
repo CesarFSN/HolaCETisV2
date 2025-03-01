@@ -1,0 +1,8 @@
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\bin\Debug\HolaCETis_SNCF.exe.config
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\bin\Debug\HolaCETis_SNCF.exe
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\bin\Debug\HolaCETis_SNCF.pdb
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaCETis_SNCF.csprojResolveAssemblyReference.cache
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaMundo_SNCF.MainForm.resources
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaCETis_SNCF.csproj.GenerateResource.Cache
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaCETis_SNCF.exe
+C:\Users\cesarfernando1\Documents\2ªB Leng Cs SNCF\1er Parcial SNCF\HolaCETis108_SNCF\obj\Debug\HolaCETis_SNCF.pdb
